@@ -1,6 +1,5 @@
 # ERC20 Airdrop contract
 
-
 ```
 0x7CC3e26b595117a37b9a99373C0B176506b9E96C
 ```
